@@ -16,7 +16,7 @@ header {
 div.logo {
     display: flex;
     flex-direction: row;
-    justify-content: space-around;;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -33,7 +33,7 @@ div.logo h1{
 
 }
 
-nav.navbar{;
+nav.navbar{
     width: 50%;
 }
 
@@ -49,4 +49,9 @@ nav.navbar{;
     font-weight: 700;
 
     color: #fff;
+}
+
+/* ##### Hero #####*/
+div.hero img{
+    width: 100%;
 }
